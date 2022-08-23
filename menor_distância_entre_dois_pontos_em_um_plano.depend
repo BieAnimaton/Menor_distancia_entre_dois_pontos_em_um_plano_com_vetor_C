@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1661248540 source:c:\users\bie_animation\onedrive\desktop\importants\eep\complexidade de algoritmos\códigos\menor_distância_entre_dois_pontos_em_um_plano\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+
