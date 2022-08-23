@@ -1,1 +1,3 @@
-# Menor_distancia_entre_dois_pontos_em_um_plano_com_vetor_C
+Dado um vetor, o programa calcula a distância entre o primeiro e o segundo elemento, segundo e terceiro... e assim por diante
+
+![image](https://user-images.githubusercontent.com/52220244/186134165-5ab73be6-af4e-43c4-bddb-06aff6827ba9.png)
