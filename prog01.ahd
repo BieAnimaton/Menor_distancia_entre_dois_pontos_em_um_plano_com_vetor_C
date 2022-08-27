@@ -1,0 +1,4 @@
+NOP
+LDA 128
+STA 129
+HLT
